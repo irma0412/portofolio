@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="48" viewBox="0 0 80 48">
+  <!-- UK Flag Background -->
+  <rect x="0" y="0" width="80" height="48" fill="#00247D" />
+  
+  <!-- White Cross (horizontal) -->
+  <rect x="0" y="19" width="80" height="10" fill="#FFFFFF" />
+  
+  <!-- White Cross (vertical) -->
+  <rect x="35" y="0" width="10" height="48" fill="#FFFFFF" />
+  
+  <!-- Red Cross (horizontal) -->
+  <rect x="0" y="21" width="80" height="6" fill="#CF142B" />
+  
+  <!-- Red Cross (vertical) -->
+  <rect x="37" y="0" width="6" height="48" fill="#CF142B" />
+</svg>
